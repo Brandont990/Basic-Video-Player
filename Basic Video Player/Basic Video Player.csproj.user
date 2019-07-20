@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <ProjectView>ProjectFiles</ProjectView>
+    <Source>C:\Users\Brandon\Desktop\Untitled Free.png</Source>
+    <SmallTileSource>C:\Users\Brandon\Desktop\Untitled Free.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Brandon\Desktop\Untitled Free.png</MediumTileSource>
+    <WideTileSource>C:\Users\Brandon\Desktop\Untitled Free.png</WideTileSource>
+    <LargeTileSource>C:\Users\Brandon\Desktop\Untitled Free.png</LargeTileSource>
+    <AppIconSource>C:\Users\Brandon\Desktop\Untitled Free.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Brandon\Desktop\Untitled Free.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Brandon\Desktop\Untitled Free.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>StoreOnly</UapAppxPackageBuildMode>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

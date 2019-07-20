@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Brandon\source\repos\Basic Video Player\bin\x86\Release\Basic Video Player_1.0.1.0_x86.msix
+SymbolPackage=C:\Users\Brandon\source\repos\Basic Video Player\obj\x86\Release\Symbols\Basic Video Player_1.0.1.0_x86.appxsym

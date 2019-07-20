@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-fr"
+"ResourceDimensions"		"language-fr-fr"
+
+[Files]
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\split.language-fr.pri"			"resources.pri"

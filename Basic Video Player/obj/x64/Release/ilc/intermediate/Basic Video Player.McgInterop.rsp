@@ -1,0 +1,42 @@
+﻿/debug:pdbonly
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize+
+/out:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop.dll"
+/pdb:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop.pdb"
+/platform:anycpu
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/define:WIN64
+/define:AMD64
+/define:ALIGN_ACCESS
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Reflection.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.iltoc"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Runtime.InteropServices.dll"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Numerics.Vectors.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Threading.iltoc"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Diagnostics.Debug.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\System.Private.Basic Video Player.Generated.dll"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\Adapters.g.cs"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\AssemblyInfo.g.cs"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\Data.g.cs"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\Helpers.g.cs"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\ImplTypes.g.cs"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\PInvoke.g.cs"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\SafeTypes.g.cs"
+"C:\Users\Brandon\source\repos\Basic Video Player\obj\x64\Release\ilc\intermediate\Basic Video Player.McgInterop\SharedStubs.g.cs"

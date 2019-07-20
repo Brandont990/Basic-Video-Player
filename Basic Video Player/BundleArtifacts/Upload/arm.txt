@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Brandon\source\repos\Basic Video Player\bin\ARM\Release\Upload\Basic Video Player_1.0.1.0_ARM.msix
+SymbolPackage=C:\Users\Brandon\source\repos\Basic Video Player\bin\ARM\Release\Upload\Basic Video Player_1.0.1.0\Basic Video Player_1.0.1.0_ARM.appxsym
+ResourcePack=C:\Users\Brandon\source\repos\Basic Video Player\bin\ARM\Release\Upload\Basic Video Player_1.0.1.0_scale-100.msix
+ResourcePack=C:\Users\Brandon\source\repos\Basic Video Player\bin\ARM\Release\Upload\Basic Video Player_1.0.1.0_scale-125.msix
+ResourcePack=C:\Users\Brandon\source\repos\Basic Video Player\bin\ARM\Release\Upload\Basic Video Player_1.0.1.0_scale-150.msix
+ResourcePack=C:\Users\Brandon\source\repos\Basic Video Player\bin\ARM\Release\Upload\Basic Video Player_1.0.1.0_scale-400.msix

@@ -1,0 +1,18 @@
+T:\Basic Video Player\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.csproj.CoreCompileInputs.cache
+T:\Basic Video Player\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.AssemblyInfoInputs.cache
+T:\Basic Video Player\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.AssemblyInfo.cs
+T:\Basic Video Player\Basic Video Player.Core\bin\Debug\netstandard2.0\Basic Video Player.Core.deps.json
+T:\Basic Video Player\Basic Video Player.Core\bin\Debug\netstandard2.0\Basic Video Player.Core.dll
+T:\Basic Video Player\Basic Video Player.Core\bin\Debug\netstandard2.0\Basic Video Player.Core.pdb
+T:\Basic Video Player\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.csprojAssemblyReference.cache
+T:\Basic Video Player\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.dll
+T:\Basic Video Player\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.pdb
+C:\Users\Brandon\source\repos\Basic Video Player.Core\bin\Debug\netstandard2.0\Basic Video Player.Core.deps.json
+C:\Users\Brandon\source\repos\Basic Video Player.Core\bin\Debug\netstandard2.0\Basic Video Player.Core.dll
+C:\Users\Brandon\source\repos\Basic Video Player.Core\bin\Debug\netstandard2.0\Basic Video Player.Core.pdb
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.dll
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.pdb
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Debug\netstandard2.0\Basic Video Player.Core.csprojAssemblyReference.cache

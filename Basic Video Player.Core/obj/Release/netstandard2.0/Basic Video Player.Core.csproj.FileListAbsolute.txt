@@ -1,0 +1,9 @@
+C:\Users\Brandon\source\repos\Basic Video Player.Core\bin\Release\netstandard2.0\Basic Video Player.Core.deps.json
+C:\Users\Brandon\source\repos\Basic Video Player.Core\bin\Release\netstandard2.0\Basic Video Player.Core.dll
+C:\Users\Brandon\source\repos\Basic Video Player.Core\bin\Release\netstandard2.0\Basic Video Player.Core.pdb
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Release\netstandard2.0\Basic Video Player.Core.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Release\netstandard2.0\Basic Video Player.Core.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Release\netstandard2.0\Basic Video Player.Core.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Release\netstandard2.0\Basic Video Player.Core.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Release\netstandard2.0\Basic Video Player.Core.dll
+C:\Users\Brandon\source\repos\Basic Video Player.Core\obj\Release\netstandard2.0\Basic Video Player.Core.pdb
